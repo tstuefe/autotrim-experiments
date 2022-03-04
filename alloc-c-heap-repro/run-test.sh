@@ -1,5 +1,5 @@
-JVM_OPTIONS="-Xmx256m -Xms256m -XX:+UnlockDiagnosticVMOptions -XX:+DumpVitalsAtExit -XX:VitalsSampleInterval=1 -XX:MonitorUsedDeflationThreshold=50 -XX:NativeMemoryTracking=summary -XX:+PrintNMTStatistics"
-TEST_OPTIONS="--type=peak -y --cycles=50"
+JVM_OPTIONS="-Xmx1G -Xms1G -XX:+UnlockDiagnosticVMOptions -XX:+DumpVitalsAtExit -XX:VitalsSampleInterval=1 -XX:MonitorUsedDeflationThreshold=50 -XX:NativeMemoryTracking=summary -XX:+PrintNMTStatistics"
+TEST_OPTIONS="--type=peak -y --cycles=5 --waitsecs=60"
 
 TESTNAME=alloc-c-heap-mit-autotrim
 JVM_OPTIONS_HERE="-XX:+AutoTrimNativeHeap -XX:AutoTrimNativeHeapInterval=10"
