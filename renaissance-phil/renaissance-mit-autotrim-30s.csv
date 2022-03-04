@@ -1,12 +1,4 @@
-Vitals:
-Now:
-,syst-avail,syst-crt,syst-swap,syst-si,syst-so,syst-p,syst-t,syst-pr,syst-pb,syst-cpu-us,syst-cpu-sy,syst-cpu-id,syst-cpu-wa,syst-cpu-st,syst-cpu-gu,proc-virt,proc-rss-all,proc-rss-anon,proc-rss-file,proc-rss-shm,proc-swdo,proc-hp,proc-cpu-us,proc-cpu-sy,proc-io-of,proc-io-rd,proc-io-wr,proc-thr,jvm-heap-comm,jvm-heap-used,jvm-meta-comm,jvm-meta-used,jvm-meta-csc,jvm-meta-csu,jvm-meta-gctr,jvm-code,jvm-mlc,jvm-jthr-num,jvm-jthr-nd,jvm-jthr-cr,jvm-jthr-st,jvm-cldg-num,jvm-cldg-anon,jvm-cls-num,jvm-cls-ld,jvm-cls-uld,
-
-                Now,"61880112","26","0","","","527","1139","1","0","","","","","","","6606616","787204","758568","28636","0","0","96","","","23","","","33","","","14400","13905","2048","1874","23808","10112","","11","1","","","","","2908","","",
-
-Last 30 minutes:
-,syst-avail,syst-crt,syst-swap,syst-si,syst-so,syst-p,syst-t,syst-pr,syst-pb,syst-cpu-us,syst-cpu-sy,syst-cpu-id,syst-cpu-wa,syst-cpu-st,syst-cpu-gu,proc-virt,proc-rss-all,proc-rss-anon,proc-rss-file,proc-rss-shm,proc-swdo,proc-hp,proc-cpu-us,proc-cpu-sy,proc-io-of,proc-io-rd,proc-io-wr,proc-thr,jvm-heap-comm,jvm-heap-used,jvm-meta-comm,jvm-meta-used,jvm-meta-csc,jvm-meta-csu,jvm-meta-gctr,jvm-code,jvm-mlc,jvm-jthr-num,jvm-jthr-nd,jvm-jthr-cr,jvm-jthr-st,jvm-cldg-num,jvm-cldg-anon,jvm-cls-num,jvm-cls-ld,jvm-cls-uld,
-
+time,syst-avail,syst-crt,syst-swap,syst-si,syst-so,syst-p,syst-t,syst-pr,syst-pb,syst-cpu-us,syst-cpu-sy,syst-cpu-id,syst-cpu-wa,syst-cpu-st,syst-cpu-gu,proc-virt,proc-rss-all,proc-rss-anon,proc-rss-file,proc-rss-shm,proc-swdo,proc-hp,proc-cpu-us,proc-cpu-sy,proc-io-of,proc-io-rd,proc-io-wr,proc-thr,jvm-heap-comm,jvm-heap-used,jvm-meta-comm,jvm-meta-used,jvm-meta-csc,jvm-meta-csu,jvm-meta-gctr,jvm-code,jvm-mlc,jvm-jthr-num,jvm-jthr-nd,jvm-jthr-cr,jvm-jthr-st,jvm-cldg-num,jvm-cldg-anon,jvm-cls-num,jvm-cls-ld,jvm-cls-uld,
 2022-03-04 14:11:12,"62638416","26","0","","","529","1133","5","0","","","","","","","3078528","31748","8192","23556","0","0","96","","","2","","","19","262144","1918","128","49","64","2","21504","7488","41410","9","1","","16420","3","0","444","","",
 2022-03-04 14:11:17,"61937492","26","0","0","0","529","1163","19","0","64","10","20","0","0","0","6606740","738456","709816","28640","0","0","96","66","11","22","28829","25261","54","262144","82282","14080","13777","1984","1891","21504","9536","400771","28","18","38","54384","135","130","2950","2506","0",
 2022-03-04 14:11:22,"61861904","26","0","0","0","530","1152","4","0","64","9","21","0","0","0","6606740","809996","781356","28640","0","0","96","66","9","22","189","0","42","262144","116955","14272","13745","2048","1863","23808","9600","150785","16","5","29","42048","57","52","2888","17","79",
@@ -94,15 +86,4 @@ Last 30 minutes:
 2022-03-04 14:18:13,"61865952","26","0","0","0","527","1168","20","0","68","11","15","0","0","0","6606616","798836","770196","28640","0","0","96","70","11","22","130","0","62","262144","60108","14336","13806","2048","1859","23808","10048","296068","36","26","26","62608","49","44","2880","0","0",
 2022-03-04 14:18:18,"61900748","26","0","0","0","527","1168","18","0","67","11","15","0","0","0","6606616","764964","736324","28640","0","0","96","70","11","22","131","0","62","262144","77209","14336","13806","2048","1859","23808","10048","230727","36","26","26","62608","49","44","2880","0","0",
 2022-03-04 14:18:23,"61897992","26","0","0","0","527","1151","9","0","67","10","18","0","0","0","6606616","768192","739552","28640","0","0","96","68","10","22","130","0","45","262144","71411","14336","13806","2048","1859","23808","10048","393376","19","9","26","45132","49","44","2880","0","0",
-
-Last 12 hours:
-,syst-avail,syst-crt,syst-swap,syst-si,syst-so,syst-p,syst-t,syst-pr,syst-pb,syst-cpu-us,syst-cpu-sy,syst-cpu-id,syst-cpu-wa,syst-cpu-st,syst-cpu-gu,proc-virt,proc-rss-all,proc-rss-anon,proc-rss-file,proc-rss-shm,proc-swdo,proc-hp,proc-cpu-us,proc-cpu-sy,proc-io-of,proc-io-rd,proc-io-wr,proc-thr,jvm-heap-comm,jvm-heap-used,jvm-meta-comm,jvm-meta-used,jvm-meta-csc,jvm-meta-csu,jvm-meta-gctr,jvm-code,jvm-mlc,jvm-jthr-num,jvm-jthr-nd,jvm-jthr-cr,jvm-jthr-st,jvm-cldg-num,jvm-cldg-anon,jvm-cls-num,jvm-cls-ld,jvm-cls-uld,
-
-2022-03-04 14:16:07,"61866668","26","0","","","528","1172","25","0","","","","","","","6606616","797056","768416","28640","0","0","96","","","22","","","62","262144","122262","14336","13805","2048","1859","23808","10048","235472","36","26","","62608","49","44","2880","","",
-
-Last 5 days:
-,syst-avail,syst-crt,syst-swap,syst-si,syst-so,syst-p,syst-t,syst-pr,syst-pb,syst-cpu-us,syst-cpu-sy,syst-cpu-id,syst-cpu-wa,syst-cpu-st,syst-cpu-gu,proc-virt,proc-rss-all,proc-rss-anon,proc-rss-file,proc-rss-shm,proc-swdo,proc-hp,proc-cpu-us,proc-cpu-sy,proc-io-of,proc-io-rd,proc-io-wr,proc-thr,jvm-heap-comm,jvm-heap-used,jvm-meta-comm,jvm-meta-used,jvm-meta-csc,jvm-meta-csu,jvm-meta-gctr,jvm-code,jvm-mlc,jvm-jthr-num,jvm-jthr-nd,jvm-jthr-cr,jvm-jthr-st,jvm-cldg-num,jvm-cldg-anon,jvm-cls-num,jvm-cls-ld,jvm-cls-uld,
-
-(no samples)
-
 
