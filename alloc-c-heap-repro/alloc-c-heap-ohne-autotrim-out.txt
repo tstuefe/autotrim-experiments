@@ -1,0 +1,144 @@
+Number of Cylces: 5
+Number of Allocations: 67108864
+Allocation Size: 8
+Touch: true
+Type: peak
+Noise: 0
+Cycle 0: before allocation...
+<press key> ... (autopress) ... waiting 60 secs ... ... continuing.
+Cycle 0: allocation phase completed.
+<press key> ... (autopress)  ... continuing.
+Cycle 0: before free...
+<press key> ... (autopress)  ... continuing.
+Cycle 0: free phase completed.
+<press key> ... (autopress)  ... continuing.
+Cycle 1: before allocation...
+<press key> ... (autopress) ... waiting 60 secs ... ... continuing.
+Cycle 1: allocation phase completed.
+<press key> ... (autopress)  ... continuing.
+Cycle 1: before free...
+<press key> ... (autopress)  ... continuing.
+Cycle 1: free phase completed.
+<press key> ... (autopress)  ... continuing.
+Cycle 2: before allocation...
+<press key> ... (autopress) ... waiting 60 secs ... ... continuing.
+Cycle 2: allocation phase completed.
+<press key> ... (autopress)  ... continuing.
+Cycle 2: before free...
+<press key> ... (autopress)  ... continuing.
+Cycle 2: free phase completed.
+<press key> ... (autopress)  ... continuing.
+Cycle 3: before allocation...
+<press key> ... (autopress) ... waiting 60 secs ... ... continuing.
+Cycle 3: allocation phase completed.
+<press key> ... (autopress)  ... continuing.
+Cycle 3: before free...
+<press key> ... (autopress)  ... continuing.
+Cycle 3: free phase completed.
+<press key> ... (autopress)  ... continuing.
+Cycle 4: before allocation...
+<press key> ... (autopress) ... waiting 60 secs ... ... continuing.
+Cycle 4: allocation phase completed.
+<press key> ... (autopress)  ... continuing.
+Cycle 4: before free...
+<press key> ... (autopress)  ... continuing.
+Cycle 4: free phase completed.
+<press key> ... (autopress)  ... continuing.
+Done.
+<press key> ... (autopress)  ... continuing.
+
+Native Memory Tracking:
+
+Total: reserved=2633410966, committed=1216297366
+       malloc: 45025686 #26165
+       mmap:   reserved=2588385280, committed=1171271680
+
+-                 Java Heap (reserved=1073741824, committed=1073741824)
+                            (mmap: reserved=1073741824, committed=1073741824) 
+ 
+-                     Class (reserved=1073885303, committed=405623)
+                            (classes #1281)
+                            (  instance classes #1125, array classes #156)
+                            (malloc=143479 #1879) 
+                            (mmap: reserved=1073741824, committed=262144) 
+                            (  Metadata:   )
+                            (    reserved=67108864, committed=2293760)
+                            (    used=2217824)
+                            (    waste=75936 =3,31%)
+                            (  Class space:)
+                            (    reserved=1073741824, committed=262144)
+                            (    used=217104)
+                            (    waste=45040 =17,18%)
+ 
+-                    Thread (reserved=33688656, committed=1047632)
+                            (thread #32)
+                            (stack: reserved=33599488, committed=958464)
+                            (malloc=47936 #220) 
+                            (arena=41232 #70)
+ 
+-                      Code (reserved=253728112, committed=7828848)
+                            (malloc=99696 #1253) 
+                            (mmap: reserved=253628416, committed=7729152) 
+ 
+-                        GC (reserved=115307983, committed=115307983)
+                            (malloc=41371087 #3764) 
+                            (mmap: reserved=73936896, committed=73936896) 
+ 
+-                 GCCardSet (reserved=229600, committed=229600)
+                            (malloc=229600 #3075) 
+ 
+-                  Compiler (reserved=187792, committed=187792)
+                            (malloc=19232 #43) 
+                            (arena=168560 #5)
+ 
+-                  Internal (reserved=704207, committed=704207)
+                            (malloc=667343 #3632) 
+                            (mmap: reserved=36864, committed=36864) 
+ 
+-                     Other (reserved=2048, committed=2048)
+                            (malloc=2048 #1) 
+ 
+-                    Symbol (reserved=1441152, committed=1441152)
+                            (malloc=1072512 #10175) 
+                            (arena=368640 #1)
+ 
+-    Native Memory Tracking (reserved=424904, committed=424904)
+                            (malloc=6248 #83) 
+                            (tracking overhead=418656)
+ 
+-        Shared class space (reserved=12582912, committed=12304384)
+                            (mmap: reserved=12582912, committed=12304384) 
+ 
+-               Arena Chunk (reserved=180696, committed=180696)
+                            (malloc=180696) 
+ 
+-                   Tracing (reserved=345, committed=345)
+                            (malloc=345 #9) 
+ 
+-                 Arguments (reserved=176, committed=176)
+                            (malloc=176 #5) 
+ 
+-                    Module (reserved=16776, committed=16776)
+                            (malloc=16776 #417) 
+ 
+-                 Safepoint (reserved=8192, committed=8192)
+                            (mmap: reserved=8192, committed=8192) 
+ 
+-           Synchronization (reserved=141360, committed=141360)
+                            (malloc=141360 #1485) 
+ 
+-            Serviceability (reserved=17232, committed=17232)
+                            (malloc=17232 #9) 
+ 
+-                 Metaspace (reserved=67120368, committed=2305264)
+                            (malloc=11504 #11) 
+                            (mmap: reserved=67108864, committed=2293760) 
+ 
+-      String Deduplication (reserved=704, committed=704)
+                            (malloc=704 #8) 
+ 
+-           Object Monitors (reserved=624, committed=624)
+                            (malloc=624 #3) 
+ 
+Dumping Vitals to alloc-c-heap-ohne-autotrim.txt
+Dumping Vitals csv to alloc-c-heap-ohne-autotrim.csv

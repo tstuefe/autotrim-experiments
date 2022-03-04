@@ -1,0 +1,693 @@
+====== philosophers (scala) [default], iteration 0 started ======
+GC before operation: completed in 6.452 ms, heap usage 21.918 MB -> 3.649 MB.
+Camera thread performed 309 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 0 completed (5363.935 ms) ======
+====== philosophers (scala) [default], iteration 1 started ======
+GC before operation: completed in 10.955 ms, heap usage 51.076 MB -> 5.406 MB.
+Camera thread performed 263 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 1 completed (4357.527 ms) ======
+====== philosophers (scala) [default], iteration 2 started ======
+GC before operation: completed in 8.428 ms, heap usage 155.530 MB -> 5.406 MB.
+Camera thread performed 261 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 2 completed (4324.004 ms) ======
+====== philosophers (scala) [default], iteration 3 started ======
+GC before operation: completed in 8.799 ms, heap usage 96.318 MB -> 5.406 MB.
+Camera thread performed 258 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 3 completed (4261.209 ms) ======
+====== philosophers (scala) [default], iteration 4 started ======
+GC before operation: completed in 9.425 ms, heap usage 51.062 MB -> 5.406 MB.
+Camera thread performed 249 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 4 completed (4153.077 ms) ======
+====== philosophers (scala) [default], iteration 5 started ======
+GC before operation: completed in 9.384 ms, heap usage 152.239 MB -> 5.406 MB.
+Camera thread performed 263 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 5 completed (4358.315 ms) ======
+====== philosophers (scala) [default], iteration 6 started ======
+GC before operation: completed in 8.903 ms, heap usage 133.853 MB -> 5.407 MB.
+Camera thread performed 273 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 6 completed (4516.121 ms) ======
+====== philosophers (scala) [default], iteration 7 started ======
+GC before operation: completed in 10.134 ms, heap usage 112.066 MB -> 5.406 MB.
+Camera thread performed 262 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 7 completed (4366.612 ms) ======
+====== philosophers (scala) [default], iteration 8 started ======
+GC before operation: completed in 9.273 ms, heap usage 76.078 MB -> 5.406 MB.
+Camera thread performed 264 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 8 completed (4384.313 ms) ======
+====== philosophers (scala) [default], iteration 9 started ======
+GC before operation: completed in 8.928 ms, heap usage 8.231 MB -> 5.407 MB.
+Camera thread performed 255 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 9 completed (4221.668 ms) ======
+====== philosophers (scala) [default], iteration 10 started ======
+GC before operation: completed in 9.923 ms, heap usage 125.032 MB -> 5.406 MB.
+Camera thread performed 253 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 10 completed (4228.349 ms) ======
+====== philosophers (scala) [default], iteration 11 started ======
+GC before operation: completed in 8.093 ms, heap usage 18.401 MB -> 5.407 MB.
+Camera thread performed 267 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 11 completed (4435.111 ms) ======
+====== philosophers (scala) [default], iteration 12 started ======
+GC before operation: completed in 8.591 ms, heap usage 155.740 MB -> 5.406 MB.
+Camera thread performed 254 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 12 completed (4237.612 ms) ======
+====== philosophers (scala) [default], iteration 13 started ======
+GC before operation: completed in 8.788 ms, heap usage 44.775 MB -> 5.407 MB.
+Camera thread performed 255 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 13 completed (4257.558 ms) ======
+====== philosophers (scala) [default], iteration 14 started ======
+GC before operation: completed in 8.501 ms, heap usage 131.167 MB -> 5.406 MB.
+Camera thread performed 258 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 14 completed (4270.123 ms) ======
+====== philosophers (scala) [default], iteration 15 started ======
+GC before operation: completed in 7.853 ms, heap usage 153.071 MB -> 5.406 MB.
+Camera thread performed 262 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 15 completed (4350.956 ms) ======
+====== philosophers (scala) [default], iteration 16 started ======
+GC before operation: completed in 9.122 ms, heap usage 59.117 MB -> 5.406 MB.
+Camera thread performed 258 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 16 completed (4298.255 ms) ======
+====== philosophers (scala) [default], iteration 17 started ======
+GC before operation: completed in 8.451 ms, heap usage 127.678 MB -> 5.407 MB.
+Camera thread performed 268 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 17 completed (4429.618 ms) ======
+====== philosophers (scala) [default], iteration 18 started ======
+GC before operation: completed in 8.419 ms, heap usage 120.577 MB -> 5.406 MB.
+Camera thread performed 248 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 18 completed (4132.874 ms) ======
+====== philosophers (scala) [default], iteration 19 started ======
+GC before operation: completed in 9.213 ms, heap usage 102.423 MB -> 5.406 MB.
+Camera thread performed 246 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 19 completed (4071.876 ms) ======
+====== philosophers (scala) [default], iteration 20 started ======
+GC before operation: completed in 10.393 ms, heap usage 83.778 MB -> 5.406 MB.
+Camera thread performed 260 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 20 completed (4320.027 ms) ======
+====== philosophers (scala) [default], iteration 21 started ======
+GC before operation: completed in 9.721 ms, heap usage 69.993 MB -> 5.406 MB.
+Camera thread performed 246 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 21 completed (4117.076 ms) ======
+====== philosophers (scala) [default], iteration 22 started ======
+GC before operation: completed in 9.148 ms, heap usage 70.560 MB -> 5.406 MB.
+Camera thread performed 251 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 22 completed (4175.996 ms) ======
+====== philosophers (scala) [default], iteration 23 started ======
+GC before operation: completed in 9.999 ms, heap usage 149.755 MB -> 5.407 MB.
+Camera thread performed 252 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 23 completed (4180.318 ms) ======
+====== philosophers (scala) [default], iteration 24 started ======
+GC before operation: completed in 10.617 ms, heap usage 21.779 MB -> 5.407 MB.
+Camera thread performed 250 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 24 completed (4177.242 ms) ======
+====== philosophers (scala) [default], iteration 25 started ======
+GC before operation: completed in 10.164 ms, heap usage 145.767 MB -> 5.406 MB.
+Camera thread performed 249 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 25 completed (4146.713 ms) ======
+====== philosophers (scala) [default], iteration 26 started ======
+GC before operation: completed in 10.530 ms, heap usage 131.179 MB -> 5.406 MB.
+Camera thread performed 263 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 26 completed (4398.138 ms) ======
+====== philosophers (scala) [default], iteration 27 started ======
+GC before operation: completed in 8.958 ms, heap usage 129.773 MB -> 5.407 MB.
+Camera thread performed 254 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 27 completed (4201.455 ms) ======
+====== philosophers (scala) [default], iteration 28 started ======
+GC before operation: completed in 10.430 ms, heap usage 39.304 MB -> 5.407 MB.
+Camera thread performed 264 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 28 completed (4382.442 ms) ======
+====== philosophers (scala) [default], iteration 29 started ======
+GC before operation: completed in 9.095 ms, heap usage 14.811 MB -> 5.407 MB.
+Camera thread performed 269 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 29 completed (4471.874 ms) ======
+====== philosophers (scala) [default], iteration 30 started ======
+GC before operation: completed in 9.957 ms, heap usage 105.693 MB -> 5.406 MB.
+Camera thread performed 258 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 30 completed (4256.463 ms) ======
+====== philosophers (scala) [default], iteration 31 started ======
+GC before operation: completed in 9.786 ms, heap usage 80.429 MB -> 5.407 MB.
+Camera thread performed 259 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 31 completed (4320.150 ms) ======
+====== philosophers (scala) [default], iteration 32 started ======
+GC before operation: completed in 8.725 ms, heap usage 30.086 MB -> 5.407 MB.
+Camera thread performed 254 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 32 completed (4204.840 ms) ======
+====== philosophers (scala) [default], iteration 33 started ======
+GC before operation: completed in 10.136 ms, heap usage 100.523 MB -> 5.407 MB.
+Camera thread performed 256 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 33 completed (4245.657 ms) ======
+====== philosophers (scala) [default], iteration 34 started ======
+GC before operation: completed in 8.929 ms, heap usage 125.934 MB -> 5.406 MB.
+Camera thread performed 253 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 34 completed (4220.522 ms) ======
+====== philosophers (scala) [default], iteration 35 started ======
+GC before operation: completed in 8.264 ms, heap usage 91.415 MB -> 5.407 MB.
+Camera thread performed 264 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 35 completed (4361.024 ms) ======
+====== philosophers (scala) [default], iteration 36 started ======
+GC before operation: completed in 9.442 ms, heap usage 90.370 MB -> 5.406 MB.
+Camera thread performed 260 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 36 completed (4340.683 ms) ======
+====== philosophers (scala) [default], iteration 37 started ======
+GC before operation: completed in 10.117 ms, heap usage 127.335 MB -> 5.406 MB.
+Camera thread performed 261 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 37 completed (4356.755 ms) ======
+====== philosophers (scala) [default], iteration 38 started ======
+GC before operation: completed in 8.980 ms, heap usage 128.547 MB -> 5.406 MB.
+Camera thread performed 259 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 38 completed (4294.726 ms) ======
+====== philosophers (scala) [default], iteration 39 started ======
+GC before operation: completed in 9.145 ms, heap usage 115.061 MB -> 5.406 MB.
+Camera thread performed 254 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 39 completed (4219.281 ms) ======
+====== philosophers (scala) [default], iteration 40 started ======
+GC before operation: completed in 10.801 ms, heap usage 84.789 MB -> 5.406 MB.
+Camera thread performed 258 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 40 completed (4259.514 ms) ======
+====== philosophers (scala) [default], iteration 41 started ======
+GC before operation: completed in 8.462 ms, heap usage 122.782 MB -> 5.406 MB.
+Camera thread performed 254 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 41 completed (4226.543 ms) ======
+====== philosophers (scala) [default], iteration 42 started ======
+GC before operation: completed in 9.295 ms, heap usage 82.760 MB -> 5.406 MB.
+Camera thread performed 253 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 42 completed (4187.418 ms) ======
+====== philosophers (scala) [default], iteration 43 started ======
+GC before operation: completed in 9.445 ms, heap usage 18.124 MB -> 5.407 MB.
+Camera thread performed 246 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 43 completed (4104.522 ms) ======
+====== philosophers (scala) [default], iteration 44 started ======
+GC before operation: completed in 9.475 ms, heap usage 32.960 MB -> 5.406 MB.
+Camera thread performed 249 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 44 completed (4152.567 ms) ======
+====== philosophers (scala) [default], iteration 45 started ======
+GC before operation: completed in 9.532 ms, heap usage 81.536 MB -> 5.406 MB.
+Camera thread performed 259 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 45 completed (4291.154 ms) ======
+====== philosophers (scala) [default], iteration 46 started ======
+GC before operation: completed in 8.281 ms, heap usage 92.258 MB -> 5.797 MB.
+Camera thread performed 251 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 46 completed (4157.181 ms) ======
+====== philosophers (scala) [default], iteration 47 started ======
+GC before operation: completed in 9.763 ms, heap usage 150.839 MB -> 5.406 MB.
+Camera thread performed 251 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 47 completed (4194.623 ms) ======
+====== philosophers (scala) [default], iteration 48 started ======
+GC before operation: completed in 10.179 ms, heap usage 81.776 MB -> 5.407 MB.
+Camera thread performed 260 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 48 completed (4366.073 ms) ======
+====== philosophers (scala) [default], iteration 49 started ======
+GC before operation: completed in 9.709 ms, heap usage 108.973 MB -> 5.406 MB.
+Camera thread performed 260 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 49 completed (4326.428 ms) ======
+====== philosophers (scala) [default], iteration 50 started ======
+GC before operation: completed in 10.201 ms, heap usage 60.043 MB -> 5.406 MB.
+Camera thread performed 261 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 50 completed (4349.909 ms) ======
+====== philosophers (scala) [default], iteration 51 started ======
+GC before operation: completed in 9.428 ms, heap usage 110.014 MB -> 5.407 MB.
+Camera thread performed 265 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 51 completed (4381.556 ms) ======
+====== philosophers (scala) [default], iteration 52 started ======
+GC before operation: completed in 10.148 ms, heap usage 145.389 MB -> 5.406 MB.
+Camera thread performed 260 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 52 completed (4322.445 ms) ======
+====== philosophers (scala) [default], iteration 53 started ======
+GC before operation: completed in 10.108 ms, heap usage 33.310 MB -> 5.406 MB.
+Camera thread performed 268 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 53 completed (4460.993 ms) ======
+====== philosophers (scala) [default], iteration 54 started ======
+GC before operation: completed in 8.931 ms, heap usage 55.535 MB -> 5.406 MB.
+Camera thread performed 255 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 54 completed (4216.234 ms) ======
+====== philosophers (scala) [default], iteration 55 started ======
+GC before operation: completed in 9.006 ms, heap usage 32.000 MB -> 5.407 MB.
+Camera thread performed 249 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 55 completed (4105.570 ms) ======
+====== philosophers (scala) [default], iteration 56 started ======
+GC before operation: completed in 10.343 ms, heap usage 95.786 MB -> 5.406 MB.
+Camera thread performed 258 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 56 completed (4269.489 ms) ======
+====== philosophers (scala) [default], iteration 57 started ======
+GC before operation: completed in 10.637 ms, heap usage 139.934 MB -> 5.406 MB.
+Camera thread performed 250 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 57 completed (4164.574 ms) ======
+====== philosophers (scala) [default], iteration 58 started ======
+GC before operation: completed in 9.757 ms, heap usage 36.183 MB -> 4.794 MB.
+Camera thread performed 267 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 58 completed (4435.029 ms) ======
+====== philosophers (scala) [default], iteration 59 started ======
+GC before operation: completed in 9.572 ms, heap usage 140.778 MB -> 4.794 MB.
+Camera thread performed 272 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 59 completed (4496.482 ms) ======
+====== philosophers (scala) [default], iteration 60 started ======
+GC before operation: completed in 8.995 ms, heap usage 90.785 MB -> 4.302 MB.
+Camera thread performed 266 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 60 completed (4437.002 ms) ======
+====== philosophers (scala) [default], iteration 61 started ======
+GC before operation: completed in 7.592 ms, heap usage 50.235 MB -> 4.301 MB.
+Camera thread performed 262 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 61 completed (4346.306 ms) ======
+====== philosophers (scala) [default], iteration 62 started ======
+GC before operation: completed in 9.303 ms, heap usage 34.337 MB -> 4.301 MB.
+Camera thread performed 266 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 62 completed (4395.884 ms) ======
+====== philosophers (scala) [default], iteration 63 started ======
+GC before operation: completed in 8.425 ms, heap usage 137.400 MB -> 4.301 MB.
+Camera thread performed 256 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 63 completed (4305.839 ms) ======
+====== philosophers (scala) [default], iteration 64 started ======
+GC before operation: completed in 7.658 ms, heap usage 73.419 MB -> 4.301 MB.
+Camera thread performed 274 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 64 completed (4538.172 ms) ======
+====== philosophers (scala) [default], iteration 65 started ======
+GC before operation: completed in 8.836 ms, heap usage 117.728 MB -> 4.301 MB.
+Camera thread performed 272 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 65 completed (4528.554 ms) ======
+====== philosophers (scala) [default], iteration 66 started ======
+GC before operation: completed in 8.097 ms, heap usage 64.705 MB -> 4.711 MB.
+Camera thread performed 264 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 66 completed (4353.294 ms) ======
+====== philosophers (scala) [default], iteration 67 started ======
+GC before operation: completed in 8.593 ms, heap usage 71.120 MB -> 4.301 MB.
+Camera thread performed 273 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 67 completed (4496.487 ms) ======
+====== philosophers (scala) [default], iteration 68 started ======
+GC before operation: completed in 9.403 ms, heap usage 87.697 MB -> 4.302 MB.
+Camera thread performed 267 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 68 completed (4436.210 ms) ======
+====== philosophers (scala) [default], iteration 69 started ======
+GC before operation: completed in 8.872 ms, heap usage 106.909 MB -> 4.704 MB.
+Camera thread performed 261 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 69 completed (4299.570 ms) ======
+====== philosophers (scala) [default], iteration 70 started ======
+GC before operation: completed in 9.390 ms, heap usage 153.732 MB -> 4.302 MB.
+Camera thread performed 265 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 70 completed (4402.944 ms) ======
+====== philosophers (scala) [default], iteration 71 started ======
+GC before operation: completed in 10.254 ms, heap usage 70.385 MB -> 4.302 MB.
+Camera thread performed 264 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 71 completed (4413.318 ms) ======
+====== philosophers (scala) [default], iteration 72 started ======
+GC before operation: completed in 9.284 ms, heap usage 8.361 MB -> 4.301 MB.
+Camera thread performed 266 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 72 completed (4411.961 ms) ======
+====== philosophers (scala) [default], iteration 73 started ======
+GC before operation: completed in 10.216 ms, heap usage 109.221 MB -> 4.301 MB.
+Camera thread performed 254 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 73 completed (4207.042 ms) ======
+====== philosophers (scala) [default], iteration 74 started ======
+GC before operation: completed in 10.252 ms, heap usage 116.194 MB -> 4.301 MB.
+Camera thread performed 266 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 74 completed (4438.145 ms) ======
+====== philosophers (scala) [default], iteration 75 started ======
+GC before operation: completed in 8.954 ms, heap usage 55.686 MB -> 4.301 MB.
+Camera thread performed 263 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 75 completed (4360.078 ms) ======
+====== philosophers (scala) [default], iteration 76 started ======
+GC before operation: completed in 7.514 ms, heap usage 49.960 MB -> 4.301 MB.
+Camera thread performed 275 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 76 completed (4551.114 ms) ======
+====== philosophers (scala) [default], iteration 77 started ======
+GC before operation: completed in 9.647 ms, heap usage 155.181 MB -> 4.301 MB.
+Camera thread performed 267 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 77 completed (4412.288 ms) ======
+====== philosophers (scala) [default], iteration 78 started ======
+GC before operation: completed in 9.081 ms, heap usage 111.915 MB -> 4.301 MB.
+Camera thread performed 271 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 78 completed (4475.082 ms) ======
+====== philosophers (scala) [default], iteration 79 started ======
+GC before operation: completed in 9.799 ms, heap usage 31.388 MB -> 4.301 MB.
+Camera thread performed 272 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 79 completed (4526.529 ms) ======
+====== philosophers (scala) [default], iteration 80 started ======
+GC before operation: completed in 7.282 ms, heap usage 32.535 MB -> 4.301 MB.
+Camera thread performed 264 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 80 completed (4370.899 ms) ======
+====== philosophers (scala) [default], iteration 81 started ======
+GC before operation: completed in 7.425 ms, heap usage 5.669 MB -> 4.301 MB.
+Camera thread performed 272 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 81 completed (4505.429 ms) ======
+====== philosophers (scala) [default], iteration 82 started ======
+GC before operation: completed in 9.914 ms, heap usage 34.720 MB -> 4.301 MB.
+Camera thread performed 269 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 82 completed (4455.155 ms) ======
+====== philosophers (scala) [default], iteration 83 started ======
+GC before operation: completed in 8.350 ms, heap usage 152.472 MB -> 4.706 MB.
+Camera thread performed 252 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 83 completed (4161.327 ms) ======
+====== philosophers (scala) [default], iteration 84 started ======
+GC before operation: completed in 8.187 ms, heap usage 40.372 MB -> 4.680 MB.
+Camera thread performed 265 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 84 completed (4424.846 ms) ======
+====== philosophers (scala) [default], iteration 85 started ======
+GC before operation: completed in 8.946 ms, heap usage 147.460 MB -> 4.301 MB.
+Camera thread performed 261 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 85 completed (4336.393 ms) ======
+====== philosophers (scala) [default], iteration 86 started ======
+GC before operation: completed in 9.323 ms, heap usage 22.122 MB -> 4.301 MB.
+Camera thread performed 261 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 86 completed (4327.815 ms) ======
+====== philosophers (scala) [default], iteration 87 started ======
+GC before operation: completed in 9.630 ms, heap usage 10.023 MB -> 4.302 MB.
+Camera thread performed 263 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 87 completed (4381.184 ms) ======
+====== philosophers (scala) [default], iteration 88 started ======
+GC before operation: completed in 8.847 ms, heap usage 69.714 MB -> 4.301 MB.
+Camera thread performed 267 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 88 completed (4407.118 ms) ======
+====== philosophers (scala) [default], iteration 89 started ======
+GC before operation: completed in 9.718 ms, heap usage 115.692 MB -> 4.302 MB.
+Camera thread performed 265 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 89 completed (4389.002 ms) ======
+====== philosophers (scala) [default], iteration 90 started ======
+GC before operation: completed in 8.901 ms, heap usage 18.531 MB -> 4.702 MB.
+Camera thread performed 261 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 90 completed (4321.737 ms) ======
+====== philosophers (scala) [default], iteration 91 started ======
+GC before operation: completed in 9.794 ms, heap usage 20.732 MB -> 4.302 MB.
+Camera thread performed 269 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 91 completed (4469.916 ms) ======
+====== philosophers (scala) [default], iteration 92 started ======
+GC before operation: completed in 9.372 ms, heap usage 59.114 MB -> 4.301 MB.
+Camera thread performed 280 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 92 completed (4633.167 ms) ======
+====== philosophers (scala) [default], iteration 93 started ======
+GC before operation: completed in 9.952 ms, heap usage 41.634 MB -> 4.302 MB.
+Camera thread performed 260 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 93 completed (4330.746 ms) ======
+====== philosophers (scala) [default], iteration 94 started ======
+GC before operation: completed in 9.510 ms, heap usage 23.681 MB -> 4.301 MB.
+Camera thread performed 267 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 94 completed (4445.026 ms) ======
+====== philosophers (scala) [default], iteration 95 started ======
+GC before operation: completed in 9.581 ms, heap usage 121.564 MB -> 4.704 MB.
+Camera thread performed 262 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 95 completed (4331.495 ms) ======
+====== philosophers (scala) [default], iteration 96 started ======
+GC before operation: completed in 9.164 ms, heap usage 141.960 MB -> 4.301 MB.
+Camera thread performed 264 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 96 completed (4374.231 ms) ======
+====== philosophers (scala) [default], iteration 97 started ======
+GC before operation: completed in 9.168 ms, heap usage 53.042 MB -> 4.302 MB.
+Camera thread performed 270 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 97 completed (4487.692 ms) ======
+====== philosophers (scala) [default], iteration 98 started ======
+GC before operation: completed in 8.610 ms, heap usage 80.306 MB -> 4.301 MB.
+Camera thread performed 265 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 98 completed (4402.761 ms) ======
+====== philosophers (scala) [default], iteration 99 started ======
+GC before operation: completed in 9.219 ms, heap usage 111.422 MB -> 4.302 MB.
+Camera thread performed 272 scans.
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== philosophers (scala) [default], iteration 99 completed (4515.458 ms) ======
+
+Native Memory Tracking:
+
+Total: reserved=2031369377, committed=628137121
+       malloc: 277523617 #1063765
+       mmap:   reserved=1753845760, committed=350613504
+
+-                 Java Heap (reserved=268435456, committed=268435456)
+                            (mmap: reserved=268435456, committed=268435456) 
+ 
+-                     Class (reserved=1074096615, committed=2451943)
+                            (classes #2908)
+                            (  instance classes #2666, array classes #242)
+                            (malloc=354791 #6164) 
+                            (mmap: reserved=1073741824, committed=2097152) 
+                            (  Metadata:   )
+                            (    reserved=67108864, committed=12648448)
+                            (    used=12309096)
+                            (    waste=339352 =2,68%)
+                            (  Class space:)
+                            (    reserved=1073741824, committed=2097152)
+                            (    used=1918704)
+                            (    waste=178448 =8,51%)
+ 
+-                    Thread (reserved=34743400, committed=1152104)
+                            (thread #34)
+                            (stack: reserved=34652160, committed=1060864)
+                            (malloc=49792 #226) 
+                            (arena=41448 #71)
+ 
+-                      Code (reserved=254207112, committed=10949768)
+                            (malloc=578696 #3804) 
+                            (mmap: reserved=253628416, committed=10371072) 
+ 
+-                        GC (reserved=82791455, committed=82791455)
+                            (malloc=39140383 #3605) 
+                            (mmap: reserved=43651072, committed=43651072) 
+ 
+-                 GCCardSet (reserved=57568, committed=57568)
+                            (malloc=57568 #771) 
+ 
+-                  Compiler (reserved=754708, committed=754708)
+                            (malloc=26820 #247) 
+                            (arena=727888 #8)
+ 
+-                  Internal (reserved=750798, committed=750798)
+                            (malloc=713934 #4516) 
+                            (mmap: reserved=36864, committed=36864) 
+ 
+-                    Symbol (reserved=3706856, committed=3706856)
+                            (malloc=3338216 #50280) 
+                            (arena=368640 #1)
+ 
+-    Native Memory Tracking (reserved=17026592, committed=17026592)
+                            (malloc=6336 #84) 
+                            (tracking overhead=17020256)
+ 
+-        Shared class space (reserved=12582912, committed=12304384)
+                            (mmap: reserved=12582912, committed=12304384) 
+ 
+-               Arena Chunk (reserved=342232, committed=342232)
+                            (malloc=342232) 
+ 
+-                   Tracing (reserved=345, committed=345)
+                            (malloc=345 #9) 
+ 
+-                 Arguments (reserved=176, committed=176)
+                            (malloc=176 #5) 
+ 
+-                    Module (reserved=18528, committed=18528)
+                            (malloc=18528 #448) 
+ 
+-                 Safepoint (reserved=8192, committed=8192)
+                            (mmap: reserved=8192, committed=8192) 
+ 
+-           Synchronization (reserved=12065584, committed=12065584)
+                            (malloc=12065584 #19439) 
+ 
+-            Serviceability (reserved=17232, committed=17232)
+                            (malloc=17232 #9) 
+ 
+-                 Metaspace (reserved=67178192, committed=12717776)
+                            (malloc=69328 #25) 
+                            (mmap: reserved=67108864, committed=12648448) 
+ 
+-      String Deduplication (reserved=704, committed=704)
+                            (malloc=704 #8) 
+ 
+-           Object Monitors (reserved=202584720, committed=202584720)
+                            (malloc=202584720 #973965) 
+ 
+Dumping Vitals to renaissance-mit-autotrim-30s.txt
+Dumping Vitals csv to renaissance-mit-autotrim-30s.csv
