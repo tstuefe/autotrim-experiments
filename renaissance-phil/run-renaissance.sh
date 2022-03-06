@@ -1,4 +1,4 @@
-JVM_OPTIONS="-Xmx128m -Xms128m -XX:+AlwaysPreTouch -XX:+UnlockDiagnosticVMOptions -XX:+DumpVitalsAtExit -XX:VitalsSampleInterval=1 -XX:MonitorUsedDeflationThreshold=50 -XX:NativeMemoryTracking=summary -XX:+PrintNMTStatistics"
+JVM_OPTIONS="-Xmx256m -Xms256m -XX:-AlwaysPreTouch -XX:+UnlockDiagnosticVMOptions -XX:+DumpVitalsAtExit -XX:VitalsSampleInterval=1 -XX:MonitorUsedDeflationThreshold=50 -XX:NativeMemoryTracking=summary -XX:+PrintNMTStatistics"
 BENCHMARK_OPTIONS="-r 50"
 
 TESTNAME=baseline
