@@ -1,5 +1,5 @@
-JVM_OPTIONS="-Xmx256m -Xms256m -XX:+UnlockDiagnosticVMOptions -XX:+DumpVitalsAtExit -XX:VitalsSampleInterval=1 -XX:MonitorUsedDeflationThreshold=50 -XX:NativeMemoryTracking=summary -XX:+PrintNMTStatistics"
-BENCHMARK_OPTIONS="-r 250"
+JVM_OPTIONS="-Xmx128m -Xms128m -XX:+AlwaysPreTouch -XX:+UnlockDiagnosticVMOptions -XX:+DumpVitalsAtExit -XX:VitalsSampleInterval=1 -XX:MonitorUsedDeflationThreshold=50 -XX:NativeMemoryTracking=summary -XX:+PrintNMTStatistics"
+BENCHMARK_OPTIONS="-r 100"
 
 TESTNAME=renaissance-mit-autotrim-1s
 JVM_OPTIONS_HERE="-XX:+AutoTrimNativeHeap -XX:AutoTrimNativeHeapInterval=1"
