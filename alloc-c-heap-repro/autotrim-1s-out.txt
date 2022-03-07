@@ -37,8 +37,8 @@ Done.
 
 Native Memory Tracking:
 
-Total: reserved=2634687576, committed=1217643608
-       malloc: 46302296 #26388
+Total: reserved=2634692849, committed=1217648881
+       malloc: 46307569 #26422
        mmap:   reserved=2588385280, committed=1171341312
 
 -                 Java Heap (reserved=1073741824, committed=1073741824)
@@ -51,8 +51,8 @@ Total: reserved=2634687576, committed=1217643608
                             (mmap: reserved=1073741824, committed=327680) 
                             (  Metadata:   )
                             (    reserved=67108864, committed=2359296)
-                            (    used=2247976)
-                            (    waste=111320 =4,72%)
+                            (    used=2255728)
+                            (    waste=103568 =4,39%)
                             (  Class space:)
                             (    reserved=1073741824, committed=327680)
                             (    used=221664)
@@ -64,23 +64,23 @@ Total: reserved=2634687576, committed=1217643608
                             (malloc=47936 #220) 
                             (arena=41232 #70)
  
--                      Code (reserved=253733712, committed=7834448)
-                            (malloc=105296 #1282) 
+-                      Code (reserved=253735752, committed=7836488)
+                            (malloc=107336 #1289) 
                             (mmap: reserved=253628416, committed=7729152) 
  
--                        GC (reserved=115310295, committed=115310295)
-                            (malloc=41373399 #3774) 
+-                        GC (reserved=115312655, committed=115312655)
+                            (malloc=41375759 #3788) 
                             (mmap: reserved=73936896, committed=73936896) 
  
 -                 GCCardSet (reserved=229600, committed=229600)
                             (malloc=229600 #3075) 
  
--                  Compiler (reserved=187648, committed=187648)
-                            (malloc=19088 #42) 
+-                  Compiler (reserved=187792, committed=187792)
+                            (malloc=19232 #43) 
                             (arena=168560 #5)
  
--                  Internal (reserved=1951313, committed=1951313)
-                            (malloc=1914449 #3657) 
+-                  Internal (reserved=1951394, committed=1951394)
+                            (malloc=1914530 #3668) 
                             (mmap: reserved=36864, committed=36864) 
  
 -                     Other (reserved=2048, committed=2048)
@@ -90,9 +90,9 @@ Total: reserved=2634687576, committed=1217643608
                             (malloc=1074960 #10260) 
                             (arena=368640 #1)
  
--    Native Memory Tracking (reserved=428472, committed=428472)
+-    Native Memory Tracking (reserved=429016, committed=429016)
                             (malloc=6248 #83) 
-                            (tracking overhead=422224)
+                            (tracking overhead=422768)
  
 -        Shared class space (reserved=12582912, committed=12304384)
                             (mmap: reserved=12582912, committed=12304384) 
@@ -112,8 +112,8 @@ Total: reserved=2634687576, committed=1217643608
 -                 Safepoint (reserved=8192, committed=8192)
                             (mmap: reserved=8192, committed=8192) 
  
--           Synchronization (reserved=141984, committed=141984)
-                            (malloc=141984 #1491) 
+-           Synchronization (reserved=142088, committed=142088)
+                            (malloc=142088 #1492) 
  
 -            Serviceability (reserved=17232, committed=17232)
                             (malloc=17232 #9) 

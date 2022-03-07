@@ -37,50 +37,50 @@ Done.
 
 Native Memory Tracking:
 
-Total: reserved=2634693502, committed=1217653630
-       malloc: 46308222 #26412
-       mmap:   reserved=2588385280, committed=1171345408
+Total: reserved=2634688705, committed=1217657025
+       malloc: 46303425 #26398
+       mmap:   reserved=2588385280, committed=1171353600
 
 -                 Java Heap (reserved=1073741824, committed=1073741824)
                             (mmap: reserved=1073741824, committed=1073741824) 
  
--                     Class (reserved=1073890279, committed=476135)
+-                     Class (reserved=1073890183, committed=476039)
                             (classes #1289)
                             (  instance classes #1133, array classes #156)
-                            (malloc=148455 #1949) 
+                            (malloc=148359 #1947) 
                             (mmap: reserved=1073741824, committed=327680) 
                             (  Metadata:   )
                             (    reserved=67108864, committed=2359296)
-                            (    used=2254688)
-                            (    waste=104608 =4,43%)
+                            (    used=2252968)
+                            (    waste=106328 =4,51%)
                             (  Class space:)
                             (    reserved=1073741824, committed=327680)
                             (    used=221664)
                             (    waste=106016 =32,35%)
  
--                    Thread (reserved=33688656, committed=990288)
+-                    Thread (reserved=33688656, committed=998480)
                             (thread #32)
-                            (stack: reserved=33599488, committed=901120)
+                            (stack: reserved=33599488, committed=909312)
                             (malloc=47936 #220) 
                             (arena=41232 #70)
  
--                      Code (reserved=253735232, committed=7835968)
-                            (malloc=106816 #1286) 
+-                      Code (reserved=253734648, committed=7835384)
+                            (malloc=106232 #1281) 
                             (mmap: reserved=253628416, committed=7729152) 
  
--                        GC (reserved=115314631, committed=115314631)
-                            (malloc=41377735 #3786) 
+-                        GC (reserved=115310447, committed=115310447)
+                            (malloc=41373551 #3781) 
                             (mmap: reserved=73936896, committed=73936896) 
  
 -                 GCCardSet (reserved=229600, committed=229600)
                             (malloc=229600 #3075) 
  
--                  Compiler (reserved=187648, committed=187648)
-                            (malloc=19088 #42) 
+-                  Compiler (reserved=187792, committed=187792)
+                            (malloc=19232 #43) 
                             (arena=168560 #5)
  
--                  Internal (reserved=1950903, committed=1950903)
-                            (malloc=1914039 #3663) 
+-                  Internal (reserved=1950946, committed=1950946)
+                            (malloc=1914082 #3659) 
                             (mmap: reserved=36864, committed=36864) 
  
 -                     Other (reserved=2048, committed=2048)
@@ -90,9 +90,9 @@ Total: reserved=2634693502, committed=1217653630
                             (malloc=1074960 #10260) 
                             (arena=368640 #1)
  
--    Native Memory Tracking (reserved=428856, committed=428856)
+-    Native Memory Tracking (reserved=428632, committed=428632)
                             (malloc=6248 #83) 
-                            (tracking overhead=422608)
+                            (tracking overhead=422384)
  
 -        Shared class space (reserved=12582912, committed=12304384)
                             (mmap: reserved=12582912, committed=12304384) 
@@ -112,8 +112,8 @@ Total: reserved=2634693502, committed=1217653630
 -                 Safepoint (reserved=8192, committed=8192)
                             (mmap: reserved=8192, committed=8192) 
  
--           Synchronization (reserved=141984, committed=141984)
-                            (malloc=141984 #1491) 
+-           Synchronization (reserved=142088, committed=142088)
+                            (malloc=142088 #1492) 
  
 -            Serviceability (reserved=17232, committed=17232)
                             (malloc=17232 #9) 
